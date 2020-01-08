@@ -21,7 +21,7 @@
       <div id="header">
         <nav>
           {% for page in site.html_pages %}
-          <a class="fork" href="{{ page.url }}">{{ page.title }}</a>
+          <li class="fork"><a href="{{ page.url }}">{{ page.title }}</a></li>
           {% endfor %}
         </nav>
       </div><!-- end header -->
