@@ -1,3 +1,5 @@
 title: Jordan Limor's Website
 description: This site will be used to keep track of various items for school and personal projects
 remote_theme: mmistakes/minimal-mistake
+
+theme: jekyll-theme-midnight
