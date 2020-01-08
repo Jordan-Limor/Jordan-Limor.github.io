@@ -2,5 +2,6 @@
 
 {% for post in site.posts %}
 * * *
-{{ post.date | date: '%B %d, %Y' }}{{ post.content }}
+{{ post.content }}
+###### {{ post.date | date: '%B %d, %Y' }}
 {% endfor %}
