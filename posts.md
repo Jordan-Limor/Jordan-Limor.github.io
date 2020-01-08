@@ -2,7 +2,6 @@
 
 {% for post in site.posts %}
 * * *
-## {{ post.title }}
+### {{ post.title }} | {{ post.date | date: '%B %d, %Y' }}
 {{ post.content }}
-##### {{ post.date | date: '%B %d, %Y' }}
 {% endfor %}
