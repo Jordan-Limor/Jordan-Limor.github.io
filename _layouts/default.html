@@ -12,6 +12,7 @@
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title }}</h1>
+      <hr>
       {% for page in site.html_pages %}
       <a href="{{ page.url }}" class="btn">{{ page.title }}</a>
       {% endfor %}
