@@ -1,7 +1,3 @@
----
-layout: default
-is_main: true
----
 
 # Welcome To My Website
 
