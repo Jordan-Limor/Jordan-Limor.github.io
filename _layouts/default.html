@@ -11,8 +11,10 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      {% if page.is_main %}
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% endif %}
       {% for post in site.posts %}
       <a href="{{ post.url }}" class="btn">{{ post.title }}</a>
       {% endfor %}
