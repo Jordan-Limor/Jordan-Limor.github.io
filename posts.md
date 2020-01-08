@@ -1,4 +1,4 @@
-# WBL Posts
+# WBL Assignments
 
 {% for post in site.posts %}
 * * *
