@@ -1,1 +1,1 @@
-# Extracurricular Activities
+# Extracurriculars
