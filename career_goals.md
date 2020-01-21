@@ -7,6 +7,5 @@ I enjoy working with computers and am very interested in how they can be secured
 - Securing Machines
 - Reviewing The Security of Systems
 
-*
-* *
-* * *
+## Training and Qualifications
+
