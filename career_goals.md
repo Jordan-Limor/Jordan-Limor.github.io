@@ -4,6 +4,7 @@
 * * *
 
 Works with computers to make them more secure against internal and external attackers.
+
 | Salary | Job Outlook
 | --- | ---
 | $98,350 per year | 112,300 Jobs in 2018
