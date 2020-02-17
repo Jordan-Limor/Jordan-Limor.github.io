@@ -29,4 +29,5 @@ Works with computers to make them more secure against internal and external atta
 
 I enjoy working with computers and am very interested in how they can be secured. I am working towards becoming a Computer Security Analyst by majoring in Computer Security. I have also taught myself to program in several languages.
 
-|![computer_secuity_1](https://media.geeksforgeeks.org/wp-content/uploads/introduction-to-firewall-1.png) | ![computer_security_2](https://i.pcmag.com/imagery/articles/07GY5dhZPFIk7NjDSRDEUAm-1.fit_scale.size_2698x1517.v1570636699.jpg)
+![computer_secuity_1](https://media.geeksforgeeks.org/wp-content/uploads/introduction-to-firewall-1.png)
+![computer_security_2](https://i.pcmag.com/imagery/articles/07GY5dhZPFIk7NjDSRDEUAm-1.fit_scale.size_2698x1517.v1570636699.jpg)
