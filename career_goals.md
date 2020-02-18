@@ -10,8 +10,14 @@ Works with computers to make them more secure against internal and external atta
 | $98,350 per year | 112,300 Jobs in 2018
 
 ## Duties
-- Securing Machines
-- Reviewing The Security of Systems
+- Monitor their organization’s networks for security breaches and investigate a violation when one occurs
+- Install and use software, such as firewalls and data encryption programs, to protect sensitive information
+- Prepare reports that document security breaches and the extent of the damage caused by the breaches
+- Conduct penetration testing, which is when analysts simulate attacks to look for vulnerabilities in their systems before they can be exploited
+- Research the latest information technology (IT) security trends
+- Develop security standards and best practices for their organization
+- Recommend security enhancements to management or senior IT staff
+- Help computer users when they need to install or learn about new security products and procedures
 
 ## Training and Qualifications I Need to get
 - Network+
