@@ -21,10 +21,13 @@ Works with computers to make them more secure against internal and external atta
 - Licensed Penetration Tester (LPT)
 
 ## Personal Qualities of a Computer Security Analyst
-- Resourceful
-- Think outside the box
-- Think like a computer
-- Think how a computer would execute code
+- **Analytical skills** Information security analysts must carefully study computer systems and networks and assess risks to determine how security policies and protocols can be improved.
+
+- **Detail oriented** Because cyberattacks can be difficult to detect, information security analysts must pay careful attention to computer systems and watch for minor changes in performance.
+
+- **Ingenuity** Information security analysts must anticipate information security risks and implement new ways to protect their organizations’ computer systems and networks.
+
+- **Problem-solving skills** Information security analysts must respond to security alerts and uncover and fix flaws in computer systems and networks.
 
 * * *
 
