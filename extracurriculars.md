@@ -12,7 +12,7 @@ I've swam with Dunwoody swim team since I was a freshmen. I swim the 500 free, a
 ### TSA/Robotics
 
 {:refdef: style="text-align: center; border: 2px solid black"}
-![tsa](https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/CEH-Certificate-e1545215217560.jpg){:height="350px"}
+![tsa](https://content.robotevents.com/images/front-tiles/re2/VRC-TSA.png){:height="350px"}
 {: refdef}
 
 I've been doing robotics since I was a freshmen. This past year I was team captain of my vex team, 1264A. I've also been doing TSA. Recently I competed in a programming competition.
